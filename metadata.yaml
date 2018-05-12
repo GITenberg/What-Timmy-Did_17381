@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/786
     wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17381#What-Timmy-Did
 gutenberg_issued: '2005-12-23'
 gutenberg_type: Text
 identifiers:
